@@ -1,0 +1,7 @@
+Course_Name,Course_Id,Maximum_Students,Current_Students,List_Of_Names,Slot_Time
+Operating Systems,C1,50,0,NULL,A1
+Database Systems,C2,40,0,NULL,B1
+Software Engineering,C3,70,0,NULL,F1
+Data Structures,C4,70,0,NULL,A1
+Computer Systems Organization,C5,70,0,NULL,B1
+Object Oriented Programming,C6,30,0,NULL,D1
