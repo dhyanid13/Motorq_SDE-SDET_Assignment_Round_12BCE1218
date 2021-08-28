@@ -29,11 +29,27 @@ The follwoing csv files contains all availabe couses and their specifications as
 ## Underlying structure for each function:
 #### Waiting-List 
 The waiting list follows the FIFO logic to add students to a course who entered the waiting list first,hence the *queue* data structure is used
-#### Sudent Class 
+#### Sudent Class
+
+(ArrayList of student objects)
+
+* Attributes : First Name and Last Name
+* Functions
+** View All Courses
+ * View valid Courses
+ * Register Course
+ * Withdraw from a Course
+ * Get Added to a course automatically from waitlist
 
 #### Course Class 
 
-
+* Attributes
+ * Course Name
+ * Course Id
+ * Max_student_capacity
+ * Available seats
+ * Slot-timing
+ 
 
 ## Assumptions :
 * Registration is open at all time of excecuting the application
