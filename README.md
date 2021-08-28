@@ -19,8 +19,11 @@ In the above submission  a CLI application for Course Slot Booking System built 
 ## Dummy Database using a csv file:
 The follwoing csv files contains all availabe couses and their specifications as show below.Due to the csv file the application can be implemented dynamically by adding,removing or modifying any course specification
 
+
 ![mtrq1](https://user-images.githubusercontent.com/56058074/131212476-380b328f-fc5e-47eb-b519-af254c39b989.png)
 
+* When program is launched, the CRS must read all courses' information from a file (MyUniversityCourses.csv)
+*Serialization & deserialization will be used to read the csv file and write into a new file.
 
 
 ## Underlying structure for each function:
