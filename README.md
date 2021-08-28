@@ -38,8 +38,9 @@ The waiting list follows the FIFO logic to add students to a course who entered 
 ## Assumptions :
 * Registration is open at all time of excecuting the application
 * The time slot of every course is classifeid as unique slots ie
-** A1- (Mon : 8:30-9:30 , Tues 4-5 , Fri 3:30-4:30)
-** B1- (Tue : 8:30-9:30 , Mon 4-5 , Sat 3:30-4:30)
+  * A1- (Mon : 8:30-9:30 , Tues 4-5 , Fri 3:30-4:30)
+  * B1- (Tue : 8:30-9:30 , Mon 4-5 , Sat 3:30-4:30)
+  
 
 For a clear picture the slots have been implemented as below:
 ![mtrq2](https://user-images.githubusercontent.com/56058074/131212448-e9754d43-6678-4dbe-b916-b4467a5920e1.png)
